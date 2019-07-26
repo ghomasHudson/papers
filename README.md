@@ -1,11 +1,5 @@
 # Papers Repository
 
-Bibliography managed by `pubs`.
+`Library.bib` file along with pdfs (with same name as the citation key).
 
-Create .bib file via:
-
-`cat bib/* >> library.bib`
-
-or
-
-`pubs export >> library.bib` if `pubs` is installed
+Compatible with the [bibman](https://github.com/maciejjan/bibman) bibliography viewer.
